@@ -63,6 +63,11 @@ export default function Home() {
           </a>
         </div>
       </main>
+
+      <hero className='bg-yellow-300 text-center'>
+          <h1>Find your  favorite place here!” and “The best prices for over 2 million properties worldwide.”. </h1>
+      
+      </hero>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
